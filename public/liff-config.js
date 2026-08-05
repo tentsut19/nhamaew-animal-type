@@ -3,7 +3,7 @@ const LIFF_ID = '2004828199-YvzwLXrX'; // test
 const PROD = true;
 // const DOMAIN = "https://nhamaew.net/";
 // const DOMAIN = "http://localhost:5000/";
-const DOMAIN = "https://test.nhamaew.net/";
+const DOMAIN = "https://api-test.nhamaew.shop/";
 
 
 const URL_UPDATE_ANIMAL_TYPE = DOMAIN+"api/v1/cat-bot/update-animal-type";
